@@ -3,13 +3,13 @@
 ## Contacts:
 E-MAIL: unitchainorg@gmail.com
 
-### Example of how should be issue formatted:
+### Example of how issue should be formatted:
 ```markdown
-  transactionHash: <here your hash>
+  transactionHash: <your hash>
   network: BTC/ETH/ZEC/DASH
-  amount: <here your amount of tokens transferred to one of our wallet>
+  amount: <your amount of tokens transferred to one of our wallet>
   tokenType: native(btc,eth,zec,dasg)/usdt/usdc/busd
-  unitAddress: <here your unit address(can be generated on our site)>
+  unitAddress: <your unit address(can be generated on our site)>
 ```
 
 ### Generating unit address
