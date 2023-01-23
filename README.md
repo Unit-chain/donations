@@ -11,7 +11,7 @@ E-MAIL: unitchainorg@gmail.com
 
 ### Generating unit address
 Address can be generated on our website: [link](https://unitchain.org/generateWalletAddress). 
-After you've made donations you should open issue for this repository(see how to open issue [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)) with the structure mentioned below.
+After you've made donations you should open issue for this repository (see how to open issue [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)) with the structure mentioned below.
 
 ### Example of how issue should be formatted:
 ```markdown
