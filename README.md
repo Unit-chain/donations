@@ -13,7 +13,7 @@ E-MAIL: unitchainorg@gmail.com
 Address can be generated on our website: [link](https://unitchain.org/generateWalletAddress). 
 After you've made donations you should open issue for this repository (see how to open issue [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)) with the structure mentioned below.
 
-### Addresses
+### Donations
 e-mail: unit@unitchain.org
 BTC(Taproot): bc1pjqaqvruh04wncfcedvntuk0vx9l7kw0t0vem5q964s4gx0nmfu8sj90a34
 ETH: 0xF2b924363D4f89fa7b1872A58Dc394a9394E786d
